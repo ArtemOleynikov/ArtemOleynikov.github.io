@@ -45,11 +45,11 @@ Try it for yourself!
 
 ## Gallery:
 
-![Image](ArtemOleynikov.github.io/docs/assets/images/1k8TBeuIuYiBwBfIscJ8F1ciznAQ4IqqsGvAa7xBJHPNJWxstm5LE1RdN7SbzL4uwkZxew.jpg)
+![Image](ArtemOleynikov.github.io/assets/images/1k8TBeuIuYiBwBfIscJ8F1ciznAQ4IqqsGvAa7xBJHPNJWxstm5LE1RdN7SbzL4uwkZxew.jpg)
 
-![Image](ArtemOleynikov.github.io/docs/assets/images/bUTT3JhRnZcyKMyKAG26TS7LNkCbJ1Cyd5vVLbfVN3LkVyxRWjRr4sMfDVpPtGIcC6x6QQ.jpg)
+![Image](ArtemOleynikov.github.io/assets/images/bUTT3JhRnZcyKMyKAG26TS7LNkCbJ1Cyd5vVLbfVN3LkVyxRWjRr4sMfDVpPtGIcC6x6QQ.jpg)
 
-![Image](ArtemOleynikov.github.io/docs/assets/images/CvPAlE1RplsoTV0NhwmUsagR42F8W8SiS8YY3cYGdZsGczW_Q4e3uqshYFiS0bw9-1B72qM0.jpg)
+![Image](ArtemOleynikov.github.io/assets/images/CvPAlE1RplsoTV0NhwmUsagR42F8W8SiS8YY3cYGdZsGczW_Q4e3uqshYFiS0bw9-1B72qM0.jpg)
 
 ### Socials: 
 
