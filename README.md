@@ -45,11 +45,11 @@ Try it for yourself!
 
 ## Gallery:
 
-![Image](ArtemOleynikov.github.io/docs/images/a.jpg)
+![Image](ArtemOleynikov.github.io/images/a.JPG)
 
-![Image](/ArtemOleynikov.github.io/docs/images/b.jpg)
+![Image](/ArtemOleynikov.github.io/images/b.JPG)
 
-![Image](/ArtemOleynikov.github.io/docs/assets/images/c.JPG)
+![Image](/ArtemOleynikov.github.io/images/c.JPG)
 
 ### Socials: 
 
