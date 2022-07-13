@@ -45,4 +45,4 @@ Try it for yourself!
 
 ### Socials: 
 Questions, remarks, constructive critisism? 
-Contact me on [Telegram](https://t.me/artem_oleynikov) or on [Instagram](https://support.github.com/contact) if you're more of a visual type.
+Contact me on [Telegram](https://t.me/artem_oleynikov) or on [Instagram](https://www.instagram.com/suchacrookedvulture/) if you're more of a visual type.
