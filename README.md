@@ -45,11 +45,11 @@ Try it for yourself!
 
 ## Gallery:
 
-![Image](https://scontent-bru2-1.cdninstagram.com/v/t51.2885-15/292534819_740584607272464_7675952729522134041_n.webp?stp=dst-JPG_e35&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=zCfaKwCu8DUAX-Bvloh&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjg3OTg3MjI4MzYzNzY1NTMzNQ%3D%3D.2-ccb7-5&oh=00_AT9GxqrQkme2aJboWPRZDkjfo4f6VvI_ETJBaz-2byTH_A&oe=62D5FD3E&_nc_sid=30a2ef)
+![Image](/images/1k8TBeuIuYiBwBfIscJ8F1ciznAQ4IqqsGvAa7xBJHPNJWxstm5LE1RdN7SbzL4uwkZxew.jpg)
 
-![Image](https://scontent-bru2-1.cdninstagram.com/v/t51.2885-15/238191731_182308683852790_4297461498432111308_n.jpg?stp=dst-JPG_e35&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=xckRoKOAuW8AX9KSco6&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjY0MjA5NTQwNDAzNDUwMDk3NA%3D%3D.2-ccb7-5&oh=00_AT-YkJVWbdL3WLJtLS6ee2BQ-7g-UJqXYCaKHCsB-pzZxQ&oe=62D69B57&_nc_sid=30a2ef)
+![Image](/images/bUTT3JhRnZcyKMyKAG26TS7LNkCbJ1Cyd5vVLbfVN3LkVyxRWjRr4sMfDVpPtGIcC6x6QQ.jpg)
 
-![Image](https://scontent-bru2-1.cdninstagram.com/v/t51.2885-15/107872813_139134437825483_5356810640007085497_n.jpg?stp=dst-JPG_e35&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=8hS6L0hUODkAX-ZJCr9&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjM1MTUzMTIxMzY4ODYwODM5Mg%3D%3D.2-ccb7-5&oh=00_AT83ry09yoaA-eQY9rWKJhEL3dof0w8jprfagwPWjijYhQ&oe=62D6E2C0&_nc_sid=30a2ef)
+![Image](/images/CvPAlE1RplsoTV0NhwmUsagR42F8W8SiS8YY3cYGdZsGczW_Q4e3uqshYFiS0bw9-1B72qM0.jpg)
 
 ### Socials: 
 
