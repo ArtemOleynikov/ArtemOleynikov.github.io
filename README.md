@@ -1,4 +1,6 @@
-#         Artem Oleynikov
+#        
+# 
+# Artem Oleynikov
 Navigating my way through a career in IT, a myriad of hobbies and just life in general
 
 My mission is simple: discover, try and share different practices that make the journey more enjoyable, interesting or efficient
@@ -42,14 +44,6 @@ Try it for yourself!
 ## Book of the month: 
 
  [Meditations](https://www.gutenberg.org/ebooks/2680) by Emperor of Rome Marcus Aurelius 
-
-## Gallery:
-
-![Image](ArtemOleynikov.github.io/images/a.JPG)
-
-![Image](/ArtemOleynikov.github.io/images/b.JPG)
-
-![Image](/ArtemOleynikov.github.io/images/c.JPG)
 
 ### Socials: 
 
