@@ -52,4 +52,4 @@ Try it for yourself!
 ### Socials: 
 
 Questions, remarks, constructive critisism? 
-Contact me on [telegram](https://t.me/artem_oleynikov) or [instagram](https://support.github.com/contact) if you're more of a visual type.
+Contact me on [Telegram](https://t.me/artem_oleynikov) or on [Instagram](https://support.github.com/contact) if you're more of a visual type.
