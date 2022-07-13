@@ -46,6 +46,5 @@ Try it for yourself!
  [Meditations](https://www.gutenberg.org/ebooks/2680) by Emperor of Rome Marcus Aurelius 
 
 ### Socials: 
-
 Questions, remarks, constructive critisism? 
 Contact me on [Telegram](https://t.me/artem_oleynikov) or on [Instagram](https://support.github.com/contact) if you're more of a visual type.
