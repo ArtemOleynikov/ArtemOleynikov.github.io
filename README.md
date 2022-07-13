@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Artem Oleynikov
+Navigating my way through a career in IT, a myriad of hobbies and just life in general
 
-You can use the [editor on GitHub](https://github.com/ArtemOleynikov/ArtemOleynikov.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My mission is simple: discover, try and share different practices that make the journey more enjoyable, interesting or efficient
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Bit of the week: 
 
-### Markdown
+###_We suffer more in imagination than in reality_ - Seneca
+
+## Code snippet of the week: 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Let's visualize airports in R
 
-- Bulleted
-- List
+`library(jsonlite)
+library(dplyr)
 
-1. Numbered
-2. List
+# globejs 
+airports <- fromJSON("https://raw.githubusercontent.com/jbrooksuk/JSON-Airports/master/airports.json")
 
-**Bold** and _Italic_ and `Code` text
+# create a dataframe key of size to colors
+sizecolors <-
+  data_frame(size = c("small","medium","large"),
+             color = c("lightblue", "gold","firebrick"))
 
-[Link](url) and ![Image](src)
+airports <-
+  airports %>%
+  # some of the data is missing lat and lon
+  filter(!is.na(lat) & !is.na(lon)) %>%
+  # join with colors
+  left_join(sizecolors)
+
+globejs(lat = airports$lat, 
+        lon = airports$lon,
+        color = airports$color)`
+
 ```
+Try it for yourself! 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Book of the month: 
 
-### Jekyll Themes
+ [Meditations](https://www.gutenberg.org/ebooks/2680) by Emperor of Rome Marcus Aurelius 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArtemOleynikov/ArtemOleynikov.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Gallery:
 
-### Support or Contact
+![Image](https://scontent-bru2-1.cdninstagram.com/v/t51.2885-15/292534819_740584607272464_7675952729522134041_n.webp?stp=dst-jpg_e35&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=zCfaKwCu8DUAX-Bvloh&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjg3OTg3MjI4MzYzNzY1NTMzNQ%3D%3D.2-ccb7-5&oh=00_AT9GxqrQkme2aJboWPRZDkjfo4f6VvI_ETJBaz-2byTH_A&oe=62D5FD3E&_nc_sid=30a2ef)
+![Image](https://scontent-bru2-1.cdninstagram.com/v/t51.2885-15/238191731_182308683852790_4297461498432111308_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=xckRoKOAuW8AX9KSco6&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjY0MjA5NTQwNDAzNDUwMDk3NA%3D%3D.2-ccb7-5&oh=00_AT-YkJVWbdL3WLJtLS6ee2BQ-7g-UJqXYCaKHCsB-pzZxQ&oe=62D69B57&_nc_sid=30a2ef)
+![Image](https://scontent-bru2-1.cdninstagram.com/v/t51.2885-15/107872813_139134437825483_5356810640007085497_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=8hS6L0hUODkAX-ZJCr9&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjM1MTUzMTIxMzY4ODYwODM5Mg%3D%3D.2-ccb7-5&oh=00_AT83ry09yoaA-eQY9rWKJhEL3dof0w8jprfagwPWjijYhQ&oe=62D6E2C0&_nc_sid=30a2ef)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Socials: 
+
+Questions, remarks, constructive critisism? 
+Contact me on [telegram](https://t.me/artem_oleynikov) or [instagram](https://support.github.com/contact) if you're more of a visual type.
