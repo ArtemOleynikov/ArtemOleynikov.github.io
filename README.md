@@ -1,5 +1,3 @@
-#        
-# 
 # Artem Oleynikov
 Navigating my way through a career in IT, a myriad of hobbies and just life in general
 
